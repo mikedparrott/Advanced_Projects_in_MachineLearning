@@ -1,2 +1,2 @@
-# advanced_Projects_in_MachineLearning
+# Advanced_Projects in MachineLearning
 Artifacts for Advanced Projects in Machine Learning Course
